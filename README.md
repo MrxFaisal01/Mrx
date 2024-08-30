@@ -1,4 +1,4 @@
-jcd 
+cd 
 
 rm -rf Mrx
 
